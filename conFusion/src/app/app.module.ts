@@ -7,6 +7,7 @@ import { MyApp } from './app.component';
 import { HomePage } from '../pages/home/home';
 import { AboutPage } from '../pages/about/about';
 import { MenuPage } from '../pages/menu/menu';
+import { DishdetailPage } from '../pages/dishdetail/dishdetail';
 
 import { ContactPage } from '../pages/contact/contact';
 import { StatusBar } from '@ionic-native/status-bar';
@@ -24,7 +25,8 @@ import { baseURL } from '../shared/baseurl';
     HomePage,
     AboutPage,
     MenuPage,
-    ContactPage
+    ContactPage,
+    DishdetailPage
   ],
   imports: [
     BrowserModule,
@@ -37,7 +39,8 @@ import { baseURL } from '../shared/baseurl';
     HomePage,
     AboutPage,
     MenuPage,
-    ContactPage
+    ContactPage,
+    DishdetailPage
   ],
   providers: [
     StatusBar,
