@@ -5,15 +5,14 @@
     "\\conFusion\\src",
     "\\conFusion\\src\\app",
     "\\conFusion\\src\\pages",
-    "\\conFusion\\src\\pages\\home",
-    "\\conFusion\\src\\pages\\menu",
+    "\\conFusion\\src\\pages\\comment",
+    "\\conFusion\\src\\pages\\dishdetail",
+    "\\conFusion\\src\\pages\\reservation",
     "\\conFusion\\src\\providers",
-    "\\conFusion\\src\\providers\\dish",
-    "\\conFusion\\src\\providers\\leader",
-    "\\conFusion\\src\\providers\\process-httpmsg",
-    "\\conFusion\\src\\providers\\promotion",
-    "\\conFusion\\src\\shared"
+    "\\conFusion\\src\\providers\\favorite",
+    "\\conFusion\\src\\shared",
+    "\\conFusion\\src\\theme"
   ],
-  "SelectedNode": "\\conFusion\\src\\app\\app.module.ts",
+  "SelectedNode": "\\conFusion\\src\\pages\\reservation\\reservation.ts",
   "PreviewInSolutionExplorer": false
 }
