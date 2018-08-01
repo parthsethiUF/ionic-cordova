@@ -5,14 +5,12 @@
     "\\conFusion\\src",
     "\\conFusion\\src\\app",
     "\\conFusion\\src\\pages",
-    "\\conFusion\\src\\pages\\comment",
     "\\conFusion\\src\\pages\\dishdetail",
-    "\\conFusion\\src\\pages\\reservation",
+    "\\conFusion\\src\\pages\\favorites",
     "\\conFusion\\src\\providers",
     "\\conFusion\\src\\providers\\favorite",
-    "\\conFusion\\src\\shared",
-    "\\conFusion\\src\\theme"
+    "\\conFusion\\src\\shared"
   ],
-  "SelectedNode": "\\conFusion\\src\\pages\\reservation\\reservation.ts",
+  "SelectedNode": "\\conFusion\\src\\shared\\baseurl.ts",
   "PreviewInSolutionExplorer": false
 }
