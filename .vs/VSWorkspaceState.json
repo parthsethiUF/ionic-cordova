@@ -3,14 +3,14 @@
     "",
     "\\conFusion",
     "\\conFusion\\src",
-    "\\conFusion\\src\\app",
     "\\conFusion\\src\\pages",
     "\\conFusion\\src\\pages\\dishdetail",
-    "\\conFusion\\src\\pages\\favorites",
+    "\\conFusion\\src\\pages\\login",
+    "\\conFusion\\src\\pages\\register",
     "\\conFusion\\src\\providers",
     "\\conFusion\\src\\providers\\favorite",
     "\\conFusion\\src\\shared"
   ],
-  "SelectedNode": "\\conFusion\\src\\shared\\baseurl.ts",
+  "SelectedNode": "\\conFusion\\src\\pages\\dishdetail\\dishdetail.html",
   "PreviewInSolutionExplorer": false
 }
